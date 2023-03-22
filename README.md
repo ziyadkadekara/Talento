@@ -20,16 +20,11 @@ Talento is a web-based application that allows students to showcase their achiev
 - MongoDB
 - Bootstrap
 
-## Weekly Updates
-
-### Week 1 (MM/DD/YYYY - MM/DD/YYYY)
+## Milestone Updates
 
 - Accomplishment 1
 - Accomplishment 2
 - Challenge 1
 - Challenge 2
 
-## Credits
-
-The Achievement Uploader project was developed by Ziyad K and Sharooq , Skarma and Stevin as part of SOE, CUSAT mini project.
 
