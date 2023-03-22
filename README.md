@@ -1,8 +1,8 @@
-# Achievement Uploader
+# Talento Web App
 
 ## Project Description
 
-Achievement Uploader is a web-based application that allows students to showcase their achievements to the public. The application is designed to help students upload their academic, co-curricular, and extracurricular achievements, and display them on their profiles. The project aims to increase the status of the department by highlighting the achievements of the students.
+Talento is a web-based application that allows students to showcase their achievements to the public. The application is designed to help students upload their academic, co-curricular, and extracurricular achievements, and display them on their profiles. The project aims to increase the status of the department by highlighting the achievements of the students.
 
 ## Features
 
