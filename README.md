@@ -31,5 +31,5 @@ Achievement Uploader is a web-based application that allows students to showcase
 
 ## Credits
 
-The Achievement Uploader project was developed by [Ziyad K] and [Sharooq , Skarma and stevin] as part of [Your College Name] mini project.
+The Achievement Uploader project was developed by Ziyad K and Sharooq , Skarma and Stevin as part of SOE, CUSAT mini project.
 
