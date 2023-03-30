@@ -1,7 +1,17 @@
 .app {
+    display: flex;
+    justify-content: center;
     .container {
-      
-    .auth {
+        width: 1024px;
+
+
+
+      .link{
+        text-decoration: none;
+        color: inherit;
+      }
+    //LOGIN AND REGISTER
+      .auth {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -47,6 +57,47 @@
             }
         }
 
+      }
+    //NAVBAR
+      .navbar {
+        .container{
+            padding: 10px 0px;
+            display: flex;
+            justify-content: space-between;
+            .logo{
+              img{
+                width: 140px;
+                height: auto;
+              }
+            }
+            .links{
+              display: flex;
+                gap: 10px;
+                align-items: center;
+            h6{
+                font-size: 16px;
+                font-weight: 300;
+            }
+            span {
+                cursor: pointer;
+            }
+            .write{
+                background-color: #b9e7e7;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-weight : 300;
+            &:hover{
+                color: teal;
+                background-color: white;
+            }
+            }
+            }
         }
+      }
     }
+    //FOOTER
 }
