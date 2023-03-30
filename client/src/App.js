@@ -11,6 +11,7 @@ import Single from "./pages/Single";
 import Write from "./pages/Write";
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
+import "./styles.scss";
 
 const Layout = () => {
   return (
