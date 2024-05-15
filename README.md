@@ -1,4 +1,4 @@
-# Talento Web App
+# Talento Web App (!completed)
 
 ## Project Description
 
@@ -16,15 +16,10 @@ Talento is a web-based application that allows students to showcase their achiev
 
 - HTML/CSS/JavaScript
 - Node.js
-- Express.js
-- MongoDB
 - Bootstrap
 
 ## Milestone Updates
 
-- Accomplishment 1
-- Accomplishment 2
-- Challenge 1
-- Challenge 2
+- Dropped this project and created an updated version
 
 
